@@ -1,0 +1,15 @@
+p {
+  color: Red;
+  font-weight: bolder;
+  background-color: Yellow;
+}
+
+.pag1 {
+  color: Green;
+  font-size: 20px;
+}
+
+#alone {
+  color: White;
+  background-color: Black;
+}
